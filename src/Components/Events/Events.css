@@ -1,0 +1,10 @@
+.all-events{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right:auto ;
+    padding-top: 30px;
+    padding: 20px;
+    color: #fff;
+    width: 40%;
+    background-image: linear-gradient(rgb(48, 47, 49), rgb(42, 41, 44), rgb(48, 36, 49), rgb(42, 5, 46));
+}

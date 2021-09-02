@@ -1,0 +1,32 @@
+.single-event-section{
+    display: flex;
+    background-color: rgb(12, 0, 11);
+    color: #fff;
+}
+
+.single-event{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right:auto ;
+    padding-top: 30px;
+    padding: 20px;
+    color: #fff;
+    width: 40%;
+    background-image: linear-gradient(rgb(48, 47, 49), rgb(42, 41, 44), rgb(48, 36, 49), rgb(42, 5, 46));
+}
+.event-detail{
+    margin-top: 30px;
+}
+
+.description{
+    background-color: rgb(37, 37, 37);
+    padding: 10px;
+    height: 100px;
+    margin-top: 15px;
+}
+.single-event-icon{
+    margin-right: 15px;
+}
+.people{
+    margin-top: 20px;
+}
